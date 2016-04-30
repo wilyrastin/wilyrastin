@@ -230,7 +230,8 @@ function create_config( )
     "feedback",
     "info",
     "plugin",
-    "text"
+    "text",
+    "lock_join"
     },
     sudo_users = {205903314},--Sudo users
     disabled_channels = {},
