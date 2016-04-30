@@ -232,7 +232,8 @@ function create_config( )
     "plugin",
     "text",
     "lock_join",
-    "img2sticker"
+    "img2sticker",
+    "s2a"
     },
     sudo_users = {205903314},--Sudo users
     disabled_channels = {},
@@ -240,20 +241,15 @@ function create_config( )
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/wilyrastin/wilyrastin
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+ramin (@wilyboy)
+rastin (@belownddy)
 
 Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
+mehran
+ali mame
 
 Our channels:
 English: @TeleSeedCH
