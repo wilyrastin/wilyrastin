@@ -229,7 +229,8 @@ function create_config( )
     "filterworld",
     "feedback",
     "info",
-    "plugin"
+    "plugin",
+    "text"
     },
     sudo_users = {205903314},--Sudo users
     disabled_channels = {},
