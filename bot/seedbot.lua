@@ -231,7 +231,8 @@ function create_config( )
     "info",
     "plugin",
     "text",
-    "lock_join"
+    "lock_join",
+    "img2sticker"
     },
     sudo_users = {205903314},--Sudo users
     disabled_channels = {},
