@@ -225,7 +225,8 @@ function create_config( )
     "all",
     "leave_ban",
     "admin",
-    "welcome"
+    "welcome",
+    "filterworld"
     },
     sudo_users = {205903314},--Sudo users
     disabled_channels = {},
